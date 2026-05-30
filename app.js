@@ -1,5 +1,5 @@
 const storageKey = "naukriAccessState";
-const defaultUpi = "";
+const defaultUpi = "82788556515-2@ybl";
 
 const starterJobs = [
   {
