@@ -126,7 +126,7 @@ function loadState() {
       jobs: starterJobs,
       payment: null,
       settings: {
-        upi: defaultUpi,
+       upi: "82788556515-2@ybl",
         admob: "",
         refresh: "hourly",
         connectors: ["Naukri", "LinkedIn", "Google Jobs"]
