@@ -1,6 +1,1 @@
-services:
-  - type: web
-    name: naukri-access
-    env: node
-    buildCommand: npm install
-    startCommand: node app.js
+
